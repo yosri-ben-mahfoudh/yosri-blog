@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yosri.ben.mahfoudh@gmail.com".  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yosri.ben.mahfoudh@gmail.com'.  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YosriBMahfoudh
