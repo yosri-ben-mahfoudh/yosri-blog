@@ -49,31 +49,31 @@ subtitle = ""
 #  description = "90%"
 
  [[feature]]
-  icon = "OpenStack_Logo_Vertical_Black.svg"
+  icon = "OpenStack_Logo_Vertical_Black"
   icon_pack = "custom"
   name = "OpenStack"
   description = "80%"
 
   [[feature]]
-  icon = "vmware-vector-logo.svg"
+  icon = "vmware-vector-logo"
   icon_pack = "custom"
   name = "VMware"
   description = "80%"
 
   [[feature]]
-  icon = "kubernetes-horizontal-black.svg"
+  icon = "kubernetes-horizontal-black"
   icon_pack = "custom"
   name = "Kubernetes"
   description = "100%"
 
   [[feature]]
-  icon = "devops.svg"
+  icon = "devops"
   icon_pack = "custom"
   name = "DevOps"
   description = "100%"
 
   [[feature]]
-  icon = "Cloud_Logo_Nav.svg"
+  icon = "Cloud_Logo_Nav"
   icon_pack = "custom"
   name = "Google Cloud Platform"
   description = "90%"
