@@ -14,23 +14,23 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+# [[feature]]
+#  icon = "clouds"
+#  icon_pack = "fab"
+#  name = "Cloud"
+#  description = "200%"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+# [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -47,5 +47,36 @@ subtitle = ""
 #  icon_pack = "custom"
 #  name = "Surfing"
 #  description = "90%"
+
+ [[feature]]
+  icon = "OpenStack_Logo_Vertical_Black.svg"
+  icon_pack = "custom"
+  name = "OpenStack"
+  description = "80%"
+
+  [[feature]]
+  icon = "vmware-vector-logo.svg"
+  icon_pack = "custom"
+  name = "VMware"
+  description = "80%"
+
+  [[feature]]
+  icon = "kubernetes-horizontal-black.svg"
+  icon_pack = "custom"
+  name = "Kubernetes"
+  description = "100%"
+
+  [[feature]]
+  icon = "devops.svg"
+  icon_pack = "custom"
+  name = "DevOps"
+  description = "100%"
+
+  [[feature]]
+  icon = "Cloud_Logo_Nav.svg"
+  icon_pack = "custom"
+  name = "Google Cloud Platform"
+  description = "90%"
+  
 
 +++
