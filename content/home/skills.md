@@ -14,23 +14,23 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-# [[feature]]
-#  icon = "clouds"
-#  icon_pack = "fab"
-#  name = "Cloud"
-#  description = "200%"
+ [[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Guru"
+  description = ""
   
-# [[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Statistics"
-#  description = "100%"  
+ [[feature]]
+  icon = "tasks"
+  icon_pack = "fas"
+  name = "Continues Progress"
+  description = ""  
   
-# [[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = "10%"
+ [[feature]]
+  icon = "user-friends"
+  icon_pack = "fas"
+  name = "Leadership"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -47,36 +47,6 @@ subtitle = ""
 #  icon_pack = "custom"
 #  name = "Surfing"
 #  description = "90%"
-
- [[feature]]
-  icon = "OpenStack_Logo_Vertical_Black"
-  icon_pack = "custom"
-  name = ""
-  description = ""
-
-  [[feature]]
-  icon = "vmware-vector-logo"
-  icon_pack = "custom"
-  name = ""
-  description = ""
-
-  [[feature]]
-  icon = "kubernetes-horizontal-black"
-  icon_pack = "custom"
-  name = ""
-  description = ""
-
-  [[feature]]
-  icon = "devops"
-  icon_pack = "custom"
-  name = ""
-  description = ""
-
-  [[feature]]
-  icon = "Cloud_Logo_Nav"
-  icon_pack = "custom"
-  name = ""
-  description = ""
   
 
 +++

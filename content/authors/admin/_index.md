@@ -27,23 +27,14 @@ interests:
 - Kubernetes & the realm of the mighty containers
 - VMware
 
-Certification:
+education:
   courses:
-  - course: VMware Certified Master Specialist - Cloud Native 2020
-    institution: VMware
-    year: 2020
-  - course: Certified Kubernetes Application Developer (CKAD)
-    institution: Cloud Native Computing Foundation
-    year: 2019
-  - course: Certified OpenStack® Administrator (COA) (Pike)
-    institution: OpenStack
-    year: 2019 & 2017   
-  - course: Certified Kubernetes Administrator (CKA)
-    institution: Cloud Native Computing Foundation
-    year: 2018
-  - course: Red Hat® Certified System Administrator (RHCSA)
-    institution: Red Hat
-    year: 2018
+  - course: Master Degree in Information Technologies & Embedded Systems
+    institution: ENET'Com (Previously ISECS)
+    year: 2012
+  - course: Bachelor Degree in Electronics & Embedded Systems 
+    institution: ENET'Com (Previously ISECS)
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
