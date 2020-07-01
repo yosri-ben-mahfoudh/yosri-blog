@@ -51,4 +51,4 @@ subtitle = ""
 
 +++
 
-{{< gallery >}
+{{< gallery >}}
