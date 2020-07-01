@@ -49,13 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-gallery_item:
- - album: gallery
-   image: msc_cna_badge.png
-   caption: VMware Certified Master Specialist in Cloud Native Application - 2020
- - album: gallery
-   image: ckad_cert.png
-   caption: Certified Kubernetes Application Developer
 +++
 
 
