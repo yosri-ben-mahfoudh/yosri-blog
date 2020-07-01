@@ -30,20 +30,20 @@ interests:
 Certification:
   courses:
   - course: VMware Certified Master Specialist - Cloud Native 2020
-    institution: [VMware](https://www.youracclaim.com/badges/cc196621-d7a2-47f8-9a0d-4aa72e9a9338)
+    institution: VMware
     year: 2020
   - course: Certified Kubernetes Application Developer (CKAD)
-    institution: [Cloud Native Computing Foundation](https://training.linuxfoundation.org/certification/verify/)
+    institution: Cloud Native Computing Foundation
     year: 2019
   - course: Certified OpenStack® Administrator (COA) (Pike)
-    institution: [OpenStack](http://www.openstack.org/coa/coa-verify/)
+    institution: OpenStack
     year: 2019 & 2017   
   - course: Certified Kubernetes Administrator (CKA)
-    institution: [Cloud Native Computing Foundation](https://training.linuxfoundation.org/certification/verify-certifications)
+    institution: Cloud Native Computing Foundation
     year: 2018
   - course: Red Hat® Certified System Administrator (RHCSA)
-    institution: [Red Hat](https://rhtapps.redhat.com/certifications/badge/verify/MLUNITNFGA6N53D2DI75JC5AXMAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
-  
+    institution: Red Hat
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
