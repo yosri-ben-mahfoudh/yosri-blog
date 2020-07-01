@@ -49,6 +49,22 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
+gallery_item:
+ - album: gallery
+   image: cka_cert.png
+   caption: A caption
+- album: gallery
+   image: ckad_cert.png
+   caption: A caption
+- album: gallery
+   image: coa_cert.png
+   caption: A caption
+- album: gallery
+   image: msc_cna_badge.png
+   caption: A caption
+- album: gallery
+   image: rhcsa_cert.png
+   caption: A caption
 +++
 
 {{< gallery >}}
