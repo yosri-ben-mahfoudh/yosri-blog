@@ -49,10 +49,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-[gallery_item]
- album = "gallery"
- image = "cka_cert.png"
- caption = "A caption"
+[[gallery_item]]
+  album = "gallery"
+  image = "cka_cert.png"
+  caption = "A caption"
 
 # [[gallery_item]]
 # album = "gallery"
