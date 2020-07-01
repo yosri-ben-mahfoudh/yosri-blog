@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = ""
 subtitle = ""
 
 [design]
@@ -54,25 +54,25 @@ album = "gallery"
 image = "cka_cert.png"
 caption = "A caption"
 
-[[gallery_item]]
-album = "gallery"
-image = "ckad_cert.png"
-caption = "A caption"
+# [[gallery_item]]
+# album = "gallery"
+# image = "ckad_cert.png"
+# caption = "A caption"
 
-[[gallery_item]]
-album = "gallery"
-image = "coa_cert.png"
-caption = "A caption"
+# [[gallery_item]]
+# album = "gallery"
+# image = "coa_cert.png"
+# caption = "A caption"
 
-[[gallery_item]]
-album = "gallery"
-image = "msc_cna_badge.png"
-caption = "A caption"
+# [[gallery_item]]
+# album = "gallery"
+# image = "msc_cna_badge.png"
+# caption = "A caption"
 
-[[gallery_item]]
-album = "gallery"
-image = "rhcsa_cert.png"
-caption = "A caption"
+# [[gallery_item]]
+# album = "gallery"
+# image = "rhcsa_cert.png"
+# caption = "A caption"
 +++
 
 {{< gallery >}}
