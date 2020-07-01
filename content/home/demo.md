@@ -52,3 +52,5 @@ subtitle = ""
 +++
 
 {{< figure library="true" src="msc_cna_badge.png" title="Vmware Certified Master Specialist in Cloud Native Applications - 2020" lightbox="true" >}}
+
+{{< figure library="true" src="ckad_cert.png" title="Certified Kubernetes Application Developper" lightbox="true" >}}
