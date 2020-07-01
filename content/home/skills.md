@@ -51,32 +51,32 @@ subtitle = ""
  [[feature]]
   icon = "OpenStack_Logo_Vertical_Black"
   icon_pack = "custom"
-  name = "OpenStack"
-  description = "80%"
+  name = ""
+  description = ""
 
   [[feature]]
   icon = "vmware-vector-logo"
   icon_pack = "custom"
-  name = "VMware"
-  description = "80%"
+  name = ""
+  description = ""
 
   [[feature]]
   icon = "kubernetes-horizontal-black"
   icon_pack = "custom"
-  name = "Kubernetes"
-  description = "100%"
+  name = ""
+  description = ""
 
   [[feature]]
   icon = "devops"
   icon_pack = "custom"
-  name = "DevOps"
-  description = "100%"
+  name = ""
+  description = ""
 
   [[feature]]
   icon = "Cloud_Logo_Nav"
   icon_pack = "custom"
-  name = "Google Cloud Platform"
-  description = "90%"
+  name = ""
+  description = ""
   
 
 +++
