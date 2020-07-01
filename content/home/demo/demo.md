@@ -50,34 +50,15 @@ subtitle = ""
  css_class = ""
 
 [[gallery_item]]
-  album = "gallery"
+  album = "certs"
   image = "cka_cert.png"
   caption = "A caption"
 
-# [[gallery_item]]
-# album = "gallery"
-# image = "ckad_cert.png"
-# caption = "A caption"
-
-# [[gallery_item]]
-# album = "gallery"
-# image = "coa_cert.png"
-# caption = "A caption"
-
-# [[gallery_item]]
-# album = "gallery"
-# image = "msc_cna_badge.png"
-# caption = "A caption"
-
-# [[gallery_item]]
-# album = "gallery"
-# image = "rhcsa_cert.png"
-# caption = "A caption"
 +++
 
 Welcome to the **Academic Kickstart** template!
 
-{{< gallery >}}
+{{< gallery album="certs">}}
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
