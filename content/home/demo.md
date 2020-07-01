@@ -51,6 +51,4 @@ subtitle = ""
 
 +++
 
-
-
-{{% /alert %}}
+{{< figure library="true" src="msc_cna_badge.png" title="Vmware Certified Master Specialist in Cloud Native Applications - 2020" lightbox="true" >}}
