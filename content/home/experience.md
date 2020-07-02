@@ -18,18 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  title = "GCP Cloud Architect & DevOps Expert"
+  company = "Renault"
+  company_url = "https://www.renault.fr/"
+  location = "France"
+  date_start = "2020-03"
+  date_end = "2022-03"
+  description = "A project for migrating Factory Data  platform & datalake from on-premises environment to GCP"
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Platform Architecture elaboration 
+  * DevOps methodology and tools implementation
   """
 
 [[experience]]

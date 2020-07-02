@@ -49,13 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-[[gallery_item]]
-  album = "static"
-  image = "icon.png"
-  caption = ""
-
 +++
 
-{{< gallery album="static">}}
+{{< figure src="static/icon.jpg" lightbox="true" >}}
 
 
