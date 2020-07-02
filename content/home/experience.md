@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2020-03"
   date_end = "2022-03"
   description = "A project for migrating Factory Data  platform & datalake from on-premises environment to GCP."
-  """
 
 [[experience]]
   title = "Professor"
