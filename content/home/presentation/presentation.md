@@ -51,6 +51,6 @@ subtitle = ""
 
 +++
 
-{{< figure src="static/icon.png" lightbox="true" >}}
+{{< figure src="icon.png" lightbox="true" >}}
 
 
