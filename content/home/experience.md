@@ -43,11 +43,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Participating with VMware Expert on the definition of PKS architeture and implementation for their client
+  * Participating with VMware Expert on the definition of PKS architeture and implementation for their client:    
       * Deploiment architecture of NSX-T
       * Deploiment architecture of PKS Control Plane
       * Clusters' sizing and technical requirements
-  * Elaboration of technical workshops with client's internal teams around:
+  * Elaboration of technical workshops with client's internal teams around:  
       * Containerization Best-Practices
       * PKS integration with existing CI/CD environment
       * Project organization on Kuberntes
@@ -61,21 +61,21 @@ date_format = "Jan 2006"
   date_start = "2019-04-20"
   date_end = "2020-06-01"
   description = """
-  Responsibilities include:
-  This project was part of Metanext's MarketWatch Services
+  Responsibilities include:  
+  This project was part of Metanext's MarketWatch Services.  
   * Define customer's technical requirements for Kubernetes and Container as a Service  Solutions
-  * Elaborate a features set per requirement:
+  * Elaborate a features set per requirement:  
       * Containers technologies & solutions
       * Containers orchestration
       * Multicloud/Multicluster CaaS orchestration solutions
-  * Animate technical workshops with Solution Providers:
+  * Animate technical workshops with Solution Providers:  
       * Microsoft: Azure AKS
       * AWS: EKS
       * Rancher
       * Google
       * Platform 9
       * IBM/RedHat
-  * Culminate the Marketwatch study with an RFP:
+  * Culminate the Marketwatch study with an RFP:  
       * Adapt the target solution architecture to the customer's existing CaaS platform
       * Elaborate the User Stories of the target project
       * Animate technical workshops with bidders to finetune the corresponding technical proposition
