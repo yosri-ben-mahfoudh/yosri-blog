@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Recent Experiences"
 subtitle = ""
 
 # Date format for experience
@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "GCP Cloud Architect & DevOps Expert"
   company = "Renault"
@@ -137,19 +138,6 @@ date_format = "Jan 2006"
     * Aquasec: End-to-End containers security solution
   * Adapting monitoring tools for entity and operation needs using Prometheus & Grafana
   * Produce scripts and Ansible playbook for provisioning and configuration management automation
-    
-  """
-
-  [[experience]]
-  title = "Technical Solutions Consultant"
-  company = "Hewlett Packard Enterprise"
-  company_url = "https://www.hpe.com/"
-  location = "Tunisia"
-  date_start = "2015-06-21"
-  date_end = "2018-03-28"
-  description = """
-  Responsibilities include:  
-    
     
   """
 

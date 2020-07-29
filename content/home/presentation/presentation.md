@@ -50,7 +50,3 @@ subtitle = ""
  css_class = ""
 
 +++
-
-{{< figure src="icon.png" title="About myself" lightbox="true" >}}
-
-
