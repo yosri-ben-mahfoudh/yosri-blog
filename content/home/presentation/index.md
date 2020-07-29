@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = "featured.png" 
-  image_darken = 0.5  
+  image_darken = 0 
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
