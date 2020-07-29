@@ -90,4 +90,67 @@ date_format = "Jan 2006"
       
   """
 
+[[experience]]
+  title = "Kubernetes Expert"
+  company = "Eircom Ireland"
+  company_url = "https://www.eir.ie/"
+  location = "Dublin"
+  date_start = "2019-08-01"
+  date_end = "2019-09-17"
+  description = """
+  Responsibilities include:  
+    
+  * Reviewing Kuberneters implementation and architecture for production environment
+  * Refactoring monitoring tools implementation (Prometheus + Grafana)
+  * Defining KPI's and monitoring strategy
+  * Animating workshop sessions with Dev Team around Kubernetes best practices
+  * Reviewing security mesures and the adoption of CIS benchmark recommendations
+    
+  """
+
+[[experience]]
+  title = "DevOps Consultant"
+  company = "BP2I (Group BNPPARIBAS)"
+  company_url = "https://group.bnpparibas/"
+  location = "Île-de-France"
+  date_start = "2018-07-02"
+  date_end = "2019-07-19"
+  description = """
+  Responsibilities include:  
+    
+  * Building IBM Cloud Private (IBM legacy distribution of Kubernetes) platform
+  * Elaborating Technical Architecture Documents:
+
+    * Implementation procedures
+    * Low Level Design
+    * Standard Technical Architecture card
+    * Service Level Agreement 
+    * Operational Recommendations
+    * Troubleshooting Guide & Documented Known Issues
+    * Containerization standards & best practices
+  * Particpate in divers technical evaluation with potential complementary   
+  components and solutions:
+
+    * Elastic: ELK for multitenant monitoring solution
+    * Hashicorp: Essentially Vault for secret management
+    * Twistlock: End-to-End containers security solution
+    * Aquasec: End-to-End containers security solution
+  * Adapting monitoring tools for entity and operation needs using Prometheus & Grafana
+  * Produce scripts and Ansible playbook for provisioning and configuration management automation
+    
+  """
+
+  [[experience]]
+  title = "Technical Solutions Consultant"
+  company = "Hewlett Packard Enterprise"
+  company_url = "https://www.hpe.com/"
+  location = "Tunisia"
+  date_start = "2015-06-21"
+  date_end = "2018-03-28"
+  description = """
+  Responsibilities include:  
+    
+    
+  """
+
 +++
