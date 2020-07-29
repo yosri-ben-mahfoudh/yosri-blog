@@ -49,4 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
+[image]
+  placement = 1
+  focal_point = "Center"
+  preview_only = false
+
 +++
