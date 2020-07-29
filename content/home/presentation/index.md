@@ -50,4 +50,4 @@ subtitle = ""
  # css_class = ""
 +++
 
-{{< figure src="featured.png" title="A caption" >}}
+{{< figure src="featured.png" >}}
