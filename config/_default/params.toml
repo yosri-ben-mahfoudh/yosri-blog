@@ -93,18 +93,18 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "8 Allée Berlioz", city = "Villejuif", region = "Val-De-Marne", postcode = "94800", country = "France", country_code = "FR"}
+# address = {street = "8 Allée Berlioz", city = "Villejuif", region = "Val-De-Marne", postcode = "94800", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.7852", longitude = "2.37226"}
+# coordinates = {latitude = "48.7852", longitude = "2.37226"}
 
 # Directions for visitors to locate you.
-directions = "Give me a call whenever around"
+# directions = "Give me a call whenever around"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Saturday 10:00 to 13:00", "Sunday 16:00 to 19:00"]
+# office_hours = ["Saturday 10:00 to 13:00", "Sunday 16:00 to 19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/yosri-ben-mahfoudh"
